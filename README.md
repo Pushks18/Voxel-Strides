@@ -1,8 +1,10 @@
 # Voxel Strides
 
-## Hackathon MVP: Task Management with AR Companion
+## Hackathon MVP: Agentic Task Management 
 
 Voxel Strides transforms daily tasks and long-term goals into a motivating, gamified adventure. This app combines a simple task manager with an AR companion that celebrates your achievements.
+
+project demonstration video : https://drive.google.com/file/d/1R2gX26QWYrmgLlM8FiIhjL8kEeM993Fg/view?usp=sharing
 
 ## Project Structure
 
