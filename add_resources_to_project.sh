@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "IMPORTANT: To make the 3D models visible in the app, please follow these steps:"
+echo ""
+echo "1. Open your Xcode project"
+echo "2. Right-click on the 'Voxel Strides' group in the Project Navigator"
+echo "3. Select 'Add Files to \"Voxel Strides\"...'"
+echo "4. Navigate to and select the 'Collectibles' folder (not the Resources folder)"
+echo "5. Make sure 'Create folder references' is selected (this will show as a blue folder)"
+echo "6. Click 'Add'"
+echo ""
+echo "This will ensure the 3D model files are included in your app bundle."
+echo ""
+echo "IMPORTANT: If you previously added the Resources folder, please remove it from the project"
+echo "to avoid duplicate file errors."
+echo ""
+echo "You should now see the 3D models in the collectibles view!" 

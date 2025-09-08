@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Voxel Strides needs camera access to allow you to take photos for task verification.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Voxel Strides needs photo library access to allow you to select photos for task verification.</string>
+</dict>
+</plist>

@@ -1,0 +1,676 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AB03DF872E2805F7000FB66E /* energy_axe.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF792E2805F7000FB66E /* energy_axe.usdz */; };
+		AB03DF882E2805F7000FB66E /* potion_bottle_inspired_by_death_becomes_her.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF802E2805F7000FB66E /* potion_bottle_inspired_by_death_becomes_her.usdz */; };
+		AB03DF892E2805F7000FB66E /* stylized_crystal_cluster.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF822E2805F7000FB66E /* stylized_crystal_cluster.usdz */; };
+		AB03DF8A2E2805F7000FB66E /* ammonite_surrounded_by_amethyst_crystals.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF762E2805F7000FB66E /* ammonite_surrounded_by_amethyst_crystals.usdz */; };
+		AB03DF8B2E2805F7000FB66E /* crystal_jack_o_lantern___free_download.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF772E2805F7000FB66E /* crystal_jack_o_lantern___free_download.usdz */; };
+		AB03DF8C2E2805F7000FB66E /* magical_staff.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF7F2E2805F7000FB66E /* magical_staff.usdz */; };
+		AB03DF8D2E2805F7000FB66E /* crystal_pendant_updated_2022.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF782E2805F7000FB66E /* crystal_pendant_updated_2022.usdz */; };
+		AB03DF8E2E2805F7000FB66E /* ice_sword.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF7E2E2805F7000FB66E /* ice_sword.usdz */; };
+		AB03DF8F2E2805F7000FB66E /* scifipistol.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF812E2805F7000FB66E /* scifipistol.usdz */; };
+		AB03DF902E2805F7000FB66E /* fantasy_hammer.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF7B2E2805F7000FB66E /* fantasy_hammer.usdz */; };
+		AB03DF912E2805F7000FB66E /* hematic_sword_spear_2.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF7D2E2805F7000FB66E /* hematic_sword_spear_2.usdz */; };
+		AB03DF922E2805F7000FB66E /* great_sword_of_giant_free.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF7C2E2805F7000FB66E /* great_sword_of_giant_free.usdz */; };
+		AB03DF932E2805F7000FB66E /* sword_of_miracle_free.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF842E2805F7000FB66E /* sword_of_miracle_free.usdz */; };
+		AB03DF942E2805F7000FB66E /* stylized_magic_staff_of_water_game_ready.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF832E2805F7000FB66E /* stylized_magic_staff_of_water_game_ready.usdz */; };
+		AB03DF952E2805F7000FB66E /* the_ethereal_sword_crystal_version.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF862E2805F7000FB66E /* the_ethereal_sword_crystal_version.usdz */; };
+		AB03DF962E2805F7000FB66E /* fantasy_compass.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF7A2E2805F7000FB66E /* fantasy_compass.usdz */; };
+		AB03DF972E2805F7000FB66E /* sword_of_the_underworld_metal_version.usdz in Resources */ = {isa = PBXBuildFile; fileRef = AB03DF852E2805F7000FB66E /* sword_of_the_underworld_metal_version.usdz */; };
+		AB03DFCD2E28E796000FB66E /* positive-notification-alert-351299.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB03DFCA2E28E796000FB66E /* positive-notification-alert-351299.mp3 */; };
+		AB03DFCE2E28E796000FB66E /* cute-level-up-2-189851.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB03DFC82E28E796000FB66E /* cute-level-up-2-189851.mp3 */; };
+		AB03DFCF2E28E796000FB66E /* select-sound-121244.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB03DFCB2E28E796000FB66E /* select-sound-121244.mp3 */; };
+		AB03DFD02E28E796000FB66E /* success-340660.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB03DFCC2E28E796000FB66E /* success-340660.mp3 */; };
+		AB03DFD12E28E796000FB66E /* new-notification-09-352705.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AB03DFC92E28E796000FB66E /* new-notification-09-352705.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AB7F4BEE2E255C55002E5D46 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AB7F4BD62E255C55002E5D46 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AB7F4BDD2E255C55002E5D46;
+			remoteInfo = "Voxel Strides";
+		};
+		AB7F4BF82E255C55002E5D46 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AB7F4BD62E255C55002E5D46 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AB7F4BDD2E255C55002E5D46;
+			remoteInfo = "Voxel Strides";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AB03DF762E2805F7000FB66E /* ammonite_surrounded_by_amethyst_crystals.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = ammonite_surrounded_by_amethyst_crystals.usdz; sourceTree = "<group>"; };
+		AB03DF772E2805F7000FB66E /* crystal_jack_o_lantern___free_download.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crystal_jack_o_lantern___free_download.usdz"; sourceTree = "<group>"; };
+		AB03DF782E2805F7000FB66E /* crystal_pendant_updated_2022.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = crystal_pendant_updated_2022.usdz; sourceTree = "<group>"; };
+		AB03DF792E2805F7000FB66E /* energy_axe.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = energy_axe.usdz; sourceTree = "<group>"; };
+		AB03DF7A2E2805F7000FB66E /* fantasy_compass.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = fantasy_compass.usdz; sourceTree = "<group>"; };
+		AB03DF7B2E2805F7000FB66E /* fantasy_hammer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = fantasy_hammer.usdz; sourceTree = "<group>"; };
+		AB03DF7C2E2805F7000FB66E /* great_sword_of_giant_free.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = great_sword_of_giant_free.usdz; sourceTree = "<group>"; };
+		AB03DF7D2E2805F7000FB66E /* hematic_sword_spear_2.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = hematic_sword_spear_2.usdz; sourceTree = "<group>"; };
+		AB03DF7E2E2805F7000FB66E /* ice_sword.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = ice_sword.usdz; sourceTree = "<group>"; };
+		AB03DF7F2E2805F7000FB66E /* magical_staff.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = magical_staff.usdz; sourceTree = "<group>"; };
+		AB03DF802E2805F7000FB66E /* potion_bottle_inspired_by_death_becomes_her.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = potion_bottle_inspired_by_death_becomes_her.usdz; sourceTree = "<group>"; };
+		AB03DF812E2805F7000FB66E /* scifipistol.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = scifipistol.usdz; sourceTree = "<group>"; };
+		AB03DF822E2805F7000FB66E /* stylized_crystal_cluster.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = stylized_crystal_cluster.usdz; sourceTree = "<group>"; };
+		AB03DF832E2805F7000FB66E /* stylized_magic_staff_of_water_game_ready.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = stylized_magic_staff_of_water_game_ready.usdz; sourceTree = "<group>"; };
+		AB03DF842E2805F7000FB66E /* sword_of_miracle_free.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = sword_of_miracle_free.usdz; sourceTree = "<group>"; };
+		AB03DF852E2805F7000FB66E /* sword_of_the_underworld_metal_version.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = sword_of_the_underworld_metal_version.usdz; sourceTree = "<group>"; };
+		AB03DF862E2805F7000FB66E /* the_ethereal_sword_crystal_version.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = the_ethereal_sword_crystal_version.usdz; sourceTree = "<group>"; };
+		AB03DFC82E28E796000FB66E /* cute-level-up-2-189851.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cute-level-up-2-189851.mp3"; sourceTree = "<group>"; };
+		AB03DFC92E28E796000FB66E /* new-notification-09-352705.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "new-notification-09-352705.mp3"; sourceTree = "<group>"; };
+		AB03DFCA2E28E796000FB66E /* positive-notification-alert-351299.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "positive-notification-alert-351299.mp3"; sourceTree = "<group>"; };
+		AB03DFCB2E28E796000FB66E /* select-sound-121244.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "select-sound-121244.mp3"; sourceTree = "<group>"; };
+		AB03DFCC2E28E796000FB66E /* success-340660.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "success-340660.mp3"; sourceTree = "<group>"; };
+		AB7F4BDE2E255C55002E5D46 /* Voxel Strides.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Voxel Strides.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB7F4BED2E255C55002E5D46 /* Voxel StridesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Voxel StridesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB7F4BF72E255C55002E5D46 /* Voxel StridesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Voxel StridesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		AB7F4BE02E255C55002E5D46 /* Voxel Strides */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Voxel Strides";
+			sourceTree = "<group>";
+		};
+		AB7F4BF02E255C55002E5D46 /* Voxel StridesTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Voxel StridesTests";
+			sourceTree = "<group>";
+		};
+		AB7F4BFA2E255C55002E5D46 /* Voxel StridesUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Voxel StridesUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AB7F4BDB2E255C55002E5D46 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7F4BEA2E255C55002E5D46 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7F4BF42E255C55002E5D46 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AB03DF752E2805C8000FB66E /* Collectibles */ = {
+			isa = PBXGroup;
+			children = (
+				AB03DF762E2805F7000FB66E /* ammonite_surrounded_by_amethyst_crystals.usdz */,
+				AB03DF772E2805F7000FB66E /* crystal_jack_o_lantern___free_download.usdz */,
+				AB03DF782E2805F7000FB66E /* crystal_pendant_updated_2022.usdz */,
+				AB03DF792E2805F7000FB66E /* energy_axe.usdz */,
+				AB03DF7A2E2805F7000FB66E /* fantasy_compass.usdz */,
+				AB03DF7B2E2805F7000FB66E /* fantasy_hammer.usdz */,
+				AB03DF7C2E2805F7000FB66E /* great_sword_of_giant_free.usdz */,
+				AB03DF7D2E2805F7000FB66E /* hematic_sword_spear_2.usdz */,
+				AB03DF7E2E2805F7000FB66E /* ice_sword.usdz */,
+				AB03DF7F2E2805F7000FB66E /* magical_staff.usdz */,
+				AB03DF802E2805F7000FB66E /* potion_bottle_inspired_by_death_becomes_her.usdz */,
+				AB03DF812E2805F7000FB66E /* scifipistol.usdz */,
+				AB03DF822E2805F7000FB66E /* stylized_crystal_cluster.usdz */,
+				AB03DF832E2805F7000FB66E /* stylized_magic_staff_of_water_game_ready.usdz */,
+				AB03DF842E2805F7000FB66E /* sword_of_miracle_free.usdz */,
+				AB03DF852E2805F7000FB66E /* sword_of_the_underworld_metal_version.usdz */,
+				AB03DF862E2805F7000FB66E /* the_ethereal_sword_crystal_version.usdz */,
+			);
+			path = Collectibles;
+			sourceTree = "<group>";
+		};
+		AB03DFC72E28E781000FB66E /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				AB03DFC82E28E796000FB66E /* cute-level-up-2-189851.mp3 */,
+				AB03DFC92E28E796000FB66E /* new-notification-09-352705.mp3 */,
+				AB03DFCA2E28E796000FB66E /* positive-notification-alert-351299.mp3 */,
+				AB03DFCB2E28E796000FB66E /* select-sound-121244.mp3 */,
+				AB03DFCC2E28E796000FB66E /* success-340660.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		AB7F4BD52E255C55002E5D46 = {
+			isa = PBXGroup;
+			children = (
+				AB03DFC72E28E781000FB66E /* Sounds */,
+				AB03DF752E2805C8000FB66E /* Collectibles */,
+				AB7F4BE02E255C55002E5D46 /* Voxel Strides */,
+				AB7F4BF02E255C55002E5D46 /* Voxel StridesTests */,
+				AB7F4BFA2E255C55002E5D46 /* Voxel StridesUITests */,
+				AB7F4BDF2E255C55002E5D46 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AB7F4BDF2E255C55002E5D46 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AB7F4BDE2E255C55002E5D46 /* Voxel Strides.app */,
+				AB7F4BED2E255C55002E5D46 /* Voxel StridesTests.xctest */,
+				AB7F4BF72E255C55002E5D46 /* Voxel StridesUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AB7F4BDD2E255C55002E5D46 /* Voxel Strides */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB7F4C012E255C55002E5D46 /* Build configuration list for PBXNativeTarget "Voxel Strides" */;
+			buildPhases = (
+				AB7F4BDA2E255C55002E5D46 /* Sources */,
+				AB7F4BDB2E255C55002E5D46 /* Frameworks */,
+				AB7F4BDC2E255C55002E5D46 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				AB7F4BE02E255C55002E5D46 /* Voxel Strides */,
+			);
+			name = "Voxel Strides";
+			packageProductDependencies = (
+			);
+			productName = "Voxel Strides";
+			productReference = AB7F4BDE2E255C55002E5D46 /* Voxel Strides.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AB7F4BEC2E255C55002E5D46 /* Voxel StridesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB7F4C042E255C55002E5D46 /* Build configuration list for PBXNativeTarget "Voxel StridesTests" */;
+			buildPhases = (
+				AB7F4BE92E255C55002E5D46 /* Sources */,
+				AB7F4BEA2E255C55002E5D46 /* Frameworks */,
+				AB7F4BEB2E255C55002E5D46 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB7F4BEF2E255C55002E5D46 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AB7F4BF02E255C55002E5D46 /* Voxel StridesTests */,
+			);
+			name = "Voxel StridesTests";
+			packageProductDependencies = (
+			);
+			productName = "Voxel StridesTests";
+			productReference = AB7F4BED2E255C55002E5D46 /* Voxel StridesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		AB7F4BF62E255C55002E5D46 /* Voxel StridesUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB7F4C072E255C55002E5D46 /* Build configuration list for PBXNativeTarget "Voxel StridesUITests" */;
+			buildPhases = (
+				AB7F4BF32E255C55002E5D46 /* Sources */,
+				AB7F4BF42E255C55002E5D46 /* Frameworks */,
+				AB7F4BF52E255C55002E5D46 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB7F4BF92E255C55002E5D46 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				AB7F4BFA2E255C55002E5D46 /* Voxel StridesUITests */,
+			);
+			name = "Voxel StridesUITests";
+			packageProductDependencies = (
+			);
+			productName = "Voxel StridesUITests";
+			productReference = AB7F4BF72E255C55002E5D46 /* Voxel StridesUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AB7F4BD62E255C55002E5D46 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					AB7F4BDD2E255C55002E5D46 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					AB7F4BEC2E255C55002E5D46 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = AB7F4BDD2E255C55002E5D46;
+					};
+					AB7F4BF62E255C55002E5D46 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = AB7F4BDD2E255C55002E5D46;
+					};
+				};
+			};
+			buildConfigurationList = AB7F4BD92E255C55002E5D46 /* Build configuration list for PBXProject "Voxel Strides" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AB7F4BD52E255C55002E5D46;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = AB7F4BDF2E255C55002E5D46 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AB7F4BDD2E255C55002E5D46 /* Voxel Strides */,
+				AB7F4BEC2E255C55002E5D46 /* Voxel StridesTests */,
+				AB7F4BF62E255C55002E5D46 /* Voxel StridesUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AB7F4BDC2E255C55002E5D46 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB03DF872E2805F7000FB66E /* energy_axe.usdz in Resources */,
+				AB03DF882E2805F7000FB66E /* potion_bottle_inspired_by_death_becomes_her.usdz in Resources */,
+				AB03DF892E2805F7000FB66E /* stylized_crystal_cluster.usdz in Resources */,
+				AB03DF8A2E2805F7000FB66E /* ammonite_surrounded_by_amethyst_crystals.usdz in Resources */,
+				AB03DF8B2E2805F7000FB66E /* crystal_jack_o_lantern___free_download.usdz in Resources */,
+				AB03DF8C2E2805F7000FB66E /* magical_staff.usdz in Resources */,
+				AB03DF8D2E2805F7000FB66E /* crystal_pendant_updated_2022.usdz in Resources */,
+				AB03DFCD2E28E796000FB66E /* positive-notification-alert-351299.mp3 in Resources */,
+				AB03DFCE2E28E796000FB66E /* cute-level-up-2-189851.mp3 in Resources */,
+				AB03DFCF2E28E796000FB66E /* select-sound-121244.mp3 in Resources */,
+				AB03DFD02E28E796000FB66E /* success-340660.mp3 in Resources */,
+				AB03DFD12E28E796000FB66E /* new-notification-09-352705.mp3 in Resources */,
+				AB03DF8E2E2805F7000FB66E /* ice_sword.usdz in Resources */,
+				AB03DF8F2E2805F7000FB66E /* scifipistol.usdz in Resources */,
+				AB03DF902E2805F7000FB66E /* fantasy_hammer.usdz in Resources */,
+				AB03DF912E2805F7000FB66E /* hematic_sword_spear_2.usdz in Resources */,
+				AB03DF922E2805F7000FB66E /* great_sword_of_giant_free.usdz in Resources */,
+				AB03DF932E2805F7000FB66E /* sword_of_miracle_free.usdz in Resources */,
+				AB03DF942E2805F7000FB66E /* stylized_magic_staff_of_water_game_ready.usdz in Resources */,
+				AB03DF952E2805F7000FB66E /* the_ethereal_sword_crystal_version.usdz in Resources */,
+				AB03DF962E2805F7000FB66E /* fantasy_compass.usdz in Resources */,
+				AB03DF972E2805F7000FB66E /* sword_of_the_underworld_metal_version.usdz in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7F4BEB2E255C55002E5D46 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7F4BF52E255C55002E5D46 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AB7F4BDA2E255C55002E5D46 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7F4BE92E255C55002E5D46 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AB7F4BF32E255C55002E5D46 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AB7F4BEF2E255C55002E5D46 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AB7F4BDD2E255C55002E5D46 /* Voxel Strides */;
+			targetProxy = AB7F4BEE2E255C55002E5D46 /* PBXContainerItemProxy */;
+		};
+		AB7F4BF92E255C55002E5D46 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AB7F4BDD2E255C55002E5D46 /* Voxel Strides */;
+			targetProxy = AB7F4BF82E255C55002E5D46 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		AB7F4BFF2E255C55002E5D46 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		AB7F4C002E255C55002E5D46 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AB7F4C022E255C55002E5D46 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Voxel-Strides-Info.plist";
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "$(PRODUCT_BUNDLE_IDENTIFIER)";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "VoxelStrides.Voxel-Strides";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AB7F4C032E255C55002E5D46 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Voxel-Strides-Info.plist";
+				INFOPLIST_KEY_NSAppleMusicUsageDescription = "$(PRODUCT_BUNDLE_IDENTIFIER)";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "VoxelStrides.Voxel-Strides";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		AB7F4C052E255C55002E5D46 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "VoxelStrides.Voxel-StridesTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Voxel Strides.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Voxel Strides";
+			};
+			name = Debug;
+		};
+		AB7F4C062E255C55002E5D46 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "VoxelStrides.Voxel-StridesTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Voxel Strides.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Voxel Strides";
+			};
+			name = Release;
+		};
+		AB7F4C082E255C55002E5D46 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "VoxelStrides.Voxel-StridesUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Voxel Strides";
+			};
+			name = Debug;
+		};
+		AB7F4C092E255C55002E5D46 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LWGF8T448R;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "VoxelStrides.Voxel-StridesUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Voxel Strides";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AB7F4BD92E255C55002E5D46 /* Build configuration list for PBXProject "Voxel Strides" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7F4BFF2E255C55002E5D46 /* Debug */,
+				AB7F4C002E255C55002E5D46 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB7F4C012E255C55002E5D46 /* Build configuration list for PBXNativeTarget "Voxel Strides" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7F4C022E255C55002E5D46 /* Debug */,
+				AB7F4C032E255C55002E5D46 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB7F4C042E255C55002E5D46 /* Build configuration list for PBXNativeTarget "Voxel StridesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7F4C052E255C55002E5D46 /* Debug */,
+				AB7F4C062E255C55002E5D46 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB7F4C072E255C55002E5D46 /* Build configuration list for PBXNativeTarget "Voxel StridesUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB7F4C082E255C55002E5D46 /* Debug */,
+				AB7F4C092E255C55002E5D46 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AB7F4BD62E255C55002E5D46 /* Project object */;
+}
