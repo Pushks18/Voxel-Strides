@@ -5,6 +5,8 @@
 Voxel Strides transforms daily tasks and long-term goals into a motivating, gamified adventure. This app combines a simple task manager with an AR companion that celebrates your achievements.
 
 project demonstration video : https://drive.google.com/file/d/1R2gX26QWYrmgLlM8FiIhjL8kEeM993Fg/view?usp=sharing
+
+
 <img width="359" height="744" alt="Screenshot 2025-09-07 at 10 01 21 PM" src="https://github.com/user-attachments/assets/c874bbcc-2c38-41df-a24d-a2b7ae1727b5" />
 <img width="350" height="744" alt="Screenshot 2025-09-07 at 10 01 40 PM" src="https://github.com/user-attachments/assets/c3605f29-9116-4c64-8c96-3cdb5e770f44" />
 
