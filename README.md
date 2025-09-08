@@ -113,14 +113,6 @@ For the audio celebration feature, add these sound files:
 ## Technologies Used
 - SwiftUI for the user interface
 - SwiftData for local data persistence
-- ARKit and RealityKit for the AR experience
 - AVFoundation and MediaPlayer for audio features
 - Combine for timer management
 
-## Troubleshooting AR Issues
-If the AR companion is not visible:
-1. Ensure you have adequate lighting in your environment
-2. Point your camera at a flat horizontal or vertical surface
-3. Move your device slowly to help tracking initialize
-4. Allow a few seconds for the AR scene to detect surfaces
-5. If using a real device, ensure camera permissions are granted# Voxel-Strides
