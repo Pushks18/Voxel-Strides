@@ -6,17 +6,17 @@ Voxel Strides transforms daily tasks and long-term goals into a motivating, gami
 
 project demonstration video : https://drive.google.com/file/d/1R2gX26QWYrmgLlM8FiIhjL8kEeM993Fg/view?usp=sharing
 <img width="359" height="744" alt="Screenshot 2025-09-07 at 10 01 21 PM" src="https://github.com/user-attachments/assets/c874bbcc-2c38-41df-a24d-a2b7ae1727b5" />
-<img width="350" height="752" alt="Screenshot 2025-09-07 at 10 01 40 PM" src="https://github.com/user-attachments/assets/c3605f29-9116-4c64-8c96-3cdb5e770f44" />
+<img width="350" height="744" alt="Screenshot 2025-09-07 at 10 01 40 PM" src="https://github.com/user-attachments/assets/c3605f29-9116-4c64-8c96-3cdb5e770f44" />
 
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/b4de00e3-d494-4459-a396-775fc38a37a1" />
+<img width="359" height="744" alt="image" src="https://github.com/user-attachments/assets/b4de00e3-d494-4459-a396-775fc38a37a1" />
 
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/6b991c51-1524-47bf-b36e-18bba75034a8" />
+<img width="359" height="744" alt="image" src="https://github.com/user-attachments/assets/6b991c51-1524-47bf-b36e-18bba75034a8" />
 
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/8eeade41-c2a2-479f-b5ae-fc8691cc0e14" />
+<img width="359" height="744" alt="image" src="https://github.com/user-attachments/assets/8eeade41-c2a2-479f-b5ae-fc8691cc0e14" />
 
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/5f4ad38d-cd00-4f6a-aab2-6d7d6c557eb2" />
+<img width="359" height="744" alt="image" src="https://github.com/user-attachments/assets/5f4ad38d-cd00-4f6a-aab2-6d7d6c557eb2" />
 
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/f56f6c60-f43c-43fe-9061-3604cbc44070" />
+<img width="359" height="744" alt="image" src="https://github.com/user-attachments/assets/f56f6c60-f43c-43fe-9061-3604cbc44070" />
 
 ## Project Structure
 
